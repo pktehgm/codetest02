@@ -1,7 +1,5 @@
-package com.mg.codetest;
+package com.mg.codetest.game;
 
-import com.mg.codetest.game.GameRunner;
-import com.mg.codetest.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
